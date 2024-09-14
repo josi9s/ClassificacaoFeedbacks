@@ -1,0 +1,1175 @@
+[
+  {
+    "feedback": "Ótimo atendimento e equipe amigável!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A qualidade do produto é terrível.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Entrega rápida e embalagem excelente.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte ao cliente foi inútil.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Adorei a experiência, vou comprar novamente!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Recebi o item errado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Tudo chegou no prazo e conforme o esperado.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O site é difícil de navegar.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito satisfeito com a minha compra.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item estava danificado quando chegou.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Recomendo muito esta loja!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento ao cliente foi rude.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Qualidade incrível pelo preço!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Tive que esperar muito tempo por uma resposta.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Caimento perfeito e aparência ótima.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "As instruções estavam confusas.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "A melhor experiência de compra que já tive.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Caro para o que oferece.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Processo de checkout rápido e fácil.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O aplicativo estava sempre travando.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Estou realmente feliz com a compra.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto quebrou após um uso.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Excelente custo-benefício!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento foi demorado e ineficaz.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto superou minhas expectativas.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Não consegui rastrear minha entrega.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Qualidade excelente e entrega rápida.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O pedido veio incompleto.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Amei o produto, valeu a pena.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A embalagem estava danificada.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Recomendo fortemente este vendedor.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item não corresponde à descrição.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Superou minhas expectativas!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A qualidade não é boa.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito rápido e eficiente.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Péssima experiência com a entrega.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Amei a compra, tudo perfeito.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento deixou a desejar.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto chegou em ótimo estado.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não cumpre prazos.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima relação custo-benefício.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não é o que eu esperava.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Experiência de compra excelente.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte foi muito lento.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto de excelente qualidade.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Não gostei do atendimento ao cliente.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Tudo conforme anunciado.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item chegou com defeito.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Recomendo este produto.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A entrega foi muito lenta.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Compra rápida e fácil.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não correspondeu às expectativas.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito satisfeito com o serviço.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto estava quebrado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Atendimento rápido e eficiente.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Não gostei da embalagem.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto perfeito, gostei muito.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A comunicação com o suporte foi ruim.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima compra, produto excelente.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Recebi um item diferente do que pedi.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Qualidade excelente e rápido atendimento.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja é difícil de contactar.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto chegou muito rápido.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Tive problemas com o pedido.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Excelente qualidade pelo preço.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não funciona como deveria.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito feliz com a compra.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A experiência de compra foi frustrante.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto ótimo e entrega rápida.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte não resolveu meu problema.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Amei o produto e a entrega foi pontual.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O pedido veio errado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, recomendo!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A qualidade do material é ruim.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótimo atendimento ao cliente.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não chegou na data prometida.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto exatamente como descrito.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento foi péssimo.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Entregaram antes do prazo, ótimo!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A embalagem não estava adequada.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Compra fácil e rápida, gostei muito.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não respondeu minhas mensagens.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima qualidade e atendimento excelente.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não era o que eu esperava.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto de alta qualidade, entrega rápida.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item chegou com defeito.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "A experiência foi muito positiva.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Não estou satisfeito com o serviço.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Excelente compra, tudo perfeito.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto chegou fora do prazo.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Recomendo a loja, muito boa.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento foi muito ruim.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto excelente, entrega rápida e segura.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não é confiável.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Experiência de compra muito positiva.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não corresponde à descrição.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, vou comprar novamente.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item não chegou em boas condições.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Amei o produto e a entrega foi rápida.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte não ajudou com meu problema.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Excelente produto e serviço.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja é difícil de contatar.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, recomendo a todos.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento ao cliente foi ineficaz.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótimo produto e rápida entrega.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto estava danificado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "A experiência foi excelente.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte ao cliente foi muito lento.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Adorei, chegou rapidinho!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto veio todo quebrado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima experiência, voltarei a comprar!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A entrega demorou demais.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito feliz com a compra, tudo perfeito.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento foi um desastre.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto top, recomendo!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A embalagem estava amassada.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Chegou antes do prazo, excelente!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Recebi o item errado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Tudo certo, recomendo a loja!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte foi péssimo.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto de qualidade, gostei muito!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O pedido veio incompleto.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Superou minhas expectativas!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Não gostei do atendimento.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, vou comprar mais vezes.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item chegou fora do prazo.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Amei a compra, tudo show!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não funciona direito.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Recomendo, tudo excelente!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Tive que esperar uma eternidade para receber.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Experiência ótima, loja nota 10!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto estava todo riscado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "A entrega foi super rápida, adorei!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento ao cliente foi um fiasco.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto de primeira, valeu a pena.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Recebi um produto diferente do pedido.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito satisfeito, recomendo sem dúvida.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte não ajudou em nada.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima compra, tudo certinho.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A embalagem estava toda rasgada.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto excelente, voltarei a comprar!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O pedido demorou muito para chegar.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Adorei o produto, entrega rápida!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Não gostei do produto, veio com defeito.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, recomendo para todos.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item não correspondeu ao que eu esperava.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Chegou rápido e em ótimas condições.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não respondeu minhas mensagens.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima qualidade, compra tranquila.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto veio errado e incompleto.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito feliz com a compra, superou expectativas!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte foi lento e ineficaz.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto chegou no prazo e em ótimo estado.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A entrega foi uma bagunça.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima experiência, vou comprar mais.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não era o que eu pedi.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, tudo perfeito!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item chegou quebrado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Recomendo, produto excelente e entrega rápida.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A qualidade do produto não é boa.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Amei, tudo ótimo.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O pedido não chegou na data prometida.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Excelente, vale a pena comprar aqui.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não funcionou como esperado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Tudo certo, compra recomendada.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não atendeu bem o pedido.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito satisfeito, voltarei a comprar!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto estava com defeito.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima loja, entrega no prazo e produto excelente.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não solucionou meu problema.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Adorei o atendimento e o produto.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O pedido veio com defeito.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto muito bom, recomendo!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A entrega foi uma decepção.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima compra, produto excelente e rápido.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte não resolveu meu problema.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, recomendo para todos.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não respondeu minhas reclamações.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto chegou no prazo e em bom estado.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A qualidade do produto deixou a desejar.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Amei o produto, vou comprar mais vezes.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não cumpre os prazos.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito satisfeito, tudo perfeito!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto estava com defeito de fabricação.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima experiência de compra, recomendo.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A entrega foi muito demorada.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto excelente, chegou rápido.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item estava danificado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, recomendo a loja!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento foi insatisfatório.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótimo produto, muito feliz com a compra.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Recebi um produto diferente do que pedi.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Adorei, tudo ótimo!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não solucionou o problema.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima loja, voltarei a comprar com certeza.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não era o que eu esperava.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto chegou em ótimo estado e rápido.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento ao cliente foi péssimo.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Excelente compra, tudo perfeito!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item estava com defeito ao chegar.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito satisfeito, recomendo.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não fez a troca do item corretamente.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima qualidade e entrega rápida.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O pedido demorou muito para chegar.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Adorei o produto, vou comprar mais!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte foi ineficaz e demorado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótimo produto, tudo perfeito.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto estava todo arranhado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, recomendo para todos!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não corresponde ao anunciado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Excelente loja e produto, super recomendo.",
+    "label": "\"positivo"
+  },
+
+  {
+    "feedback": "Chegou rapidão, top demais!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Veio quebrado, que decepção.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Compra show, vou comprar mais!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A entrega demorou séculos, aff.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Mó legal, produto top!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento foi uma porcaria.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto irado, recomendo muito!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A embalagem chegou toda amassada.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Chegou antes do prazo, manda muito!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Recebi o item errado, que raiva!",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Tudo certo, loja maneira!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte foi uma bagunça.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto show, curti demais!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O pedido veio pela metade, poxa.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótimo, super recomendo a loja!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Não gostei do atendimento, péssimo.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, valeu a pena!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item chegou com atraso, chato.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Amei o produto, tá show de bola!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não funciona direito, droga.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Recomendo, tudo top demais!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Tive que esperar horrores para receber.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Experiência irada, loja 10!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Produto todo riscado, que raiva.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Entrega rápida, gostei muito!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte foi um fiasco total.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto excelente, super satisfeito!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "Recebi um produto totalmente errado.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito feliz com a compra, top demais!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte não ajudou em nada, que saco.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima compra, tudo tranquilo.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A embalagem estava toda rasgada, ué.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto excelente, chegou rápido!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O pedido demorou uma eternidade.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Adorei, tudo maravilhoso!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto veio com defeito, chato.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, recomendo pra geral!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item não estava funcionando, droga.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima experiência, recomendo muito!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não respondeu minhas mensagens, aff.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Produto chegou legal e rápido.",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento foi uma porcaria, chato.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito satisfeito, tudo perfeito!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto estava todo arranhado, poxa.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima qualidade, amei!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A entrega foi um fiasco total.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Adorei, tudo show de bola!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não era o que eu esperava, que saco.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, valeu a pena cada centavo!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento foi péssimo, que raiva.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima loja, tudo ótimo!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item chegou todo danificado, chato demais.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito satisfeito, recomendo pra caramba!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não fez a troca certa, que droga.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima qualidade, tudo em cima!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A entrega demorou uma eternidade, aff.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Adorei, vou comprar mais!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte foi um desastre, que saco.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótimo produto, recomendo muito!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto estava com defeito, que chato.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, loja nota 10!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O pedido não chegou no prazo, que raiva.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima compra, tudo perfeito!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A embalagem estava toda rasgada, poxa.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito feliz com a compra, valeu!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto veio errado, que saco.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Adorei, tudo show!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não resolveu meu problema, aff.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima experiência, loja top!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O item estava todo arranhado, que chato.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito bom, recomendo pra geral!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto não era o que eu pedi, droga.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima loja, entrega rápida e produto excelente!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O suporte foi horrível, que raiva.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Adorei o produto, superou minhas expectativas!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A entrega demorou muito, que chato.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Muito satisfeito, tudo perfeito!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O produto estava todo danificado, que droga.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Ótima compra, tudo show de bola!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "O atendimento foi uma porcaria, aff.",
+    "label": "negativo"
+  },
+  {
+    "feedback": "Adorei, tudo maravilhoso e rápido!",
+    "label": "positivo"
+  },
+  {
+    "feedback": "A loja não fez o serviço direito, chato.",
+    "label": "negativo"
+  }
+]
