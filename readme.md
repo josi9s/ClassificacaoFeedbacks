@@ -6,9 +6,9 @@ Este algoritmo utiliza um classificador Naive Bayes multinomial para categorizar
 
 Ferramentas utilizadas no script:
 
-- Biblioteca "json" do Python para armazenar os dados em um arquivo JSON
+- Biblioteca *json* do Python para armazenar os dados em um arquivo JSON
 
-- Funções importadas da Biblioteca scikit-learn/sklearn, uma biblioteca de aprendizado de máquina em Python que fornece ferramentas simples e eficientes para análise de dados e modelagem preditiva:
+- Funções importadas da Biblioteca *scikit-learn/sklearn*, uma biblioteca de aprendizado de máquina em Python que fornece ferramentas simples e eficientes para análise de dados e modelagem preditiva:
 
    **CountVectorizer**: 
      - Para transformar o texto em uma matriz de contagens de palavras.
