@@ -1,6 +1,6 @@
 # Algoritmo de Classificação de Feedbacks com Naive Bayes
 
-Este algoritmo utiliza um classificador Naive Bayes multinomial para categorizar feedbacks com base em exemplos fornecidos em um arquivo JSON. O objetivo é rotular novos feedbacks inseridos pelo usuário como "negativo ou "positivo".
+Este algoritmo utiliza um classificador Naive Bayes multinomial para categorizar feedbacks com base em exemplos fornecidos em um arquivo JSON. O objetivo é rotular novos feedbacks inseridos pelo usuário como "negativo" ou "positivo".
 
 ## Implementação de Bibliotecas
 
