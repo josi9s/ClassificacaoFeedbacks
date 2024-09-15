@@ -1,6 +1,6 @@
 # Algoritmo de Classificação de Feedbacks com Naive Bayes
 
-Este algoritmo utiliza um classificador Naive Bayes multinomial para categorizar feedbacks com base em exemplos fornecidos em um arquivo JSON. O objetivo é rotular novos feedbacks inseridos pelo usuário como "negativo" ou "positivo".
+Este algoritmo utiliza um classificador Naive Bayes multinomial para categorizar feedbacks com base em exemplos fornecidos em um arquivo JSON. O objetivo é rotular novos feedbacks inseridos pelo usuário como "negativo ou "positivo".
 
 ## Implementação de Bibliotecas
 
@@ -24,7 +24,7 @@ Ferramentas utilizadas no script:
 
 ## Explicação do Código
 
-O código começa declarando uma variável **_exemplos_**, que guarda o caminho para o arquivo JSON com os exemplos de feedbacks a serem usados no treinamento:
+Eu comecei o código declarando uma variável **_exemplos_**, que guarda o caminho para o arquivo JSON com os exemplos de feedbacks a serem usados no treinamento:
 ```
 exemplos = "../data/examples.json"
 ```
@@ -62,14 +62,35 @@ Depois as listas serão desempacotadas em duas variáveis, **_feedbacks_** e **_
 ```
 feedbacks,labels = lerJson(exemplos)
 ```
-Depois será criada uma instância do **_CountVectorizer_**, que é uma classe capaz de converter texto em uma matriz de contagem de palavras. Cada documento (feedback) é transformado em um vetor numérico onde cada valor representa a contagem de uma palavra específica, fazer isso é necessário porquê o modelo de ML só trabalha com valores númericos.
+Depois eu criei uma instância do **_CountVectorizer_**, que é uma classe capaz de converter o texto em uma matriz de contagem de palavras. Cada documento (feedback) é transformado em um vetor numérico onde cada valor representa a contagem de uma palavra específica, fazer isso é necessário porquê o modelo de ML só trabalha com valores númericos.
 
 ```
 vectorizer = CountVectorizer()
 ```
 
-Feito isso, será utilizado um método chamado **_fit_transform_** nessa instância, que receberá como parâmetro a variável **_feedbacks_**. Essa função basicamente vai criar uma matriz esparsa, em que cada linha representará um feedback e cada coluna representará uma palavra do vocabulário, e os valores vão indicar quantas vezes cada palavra aparece em cada feedback. No final disso, essa matriz vai ser armazenada na variável **_X_**.
+Feito isso, eu utilizei um método chamado **_fit_transform_** nessa instância, que recebe como parâmetro a variável **_feedbacks_**. Essa função basicamente cria uma matriz esparsa, em que cada linha representa um feedback e cada coluna representa uma palavra do vocabulário, e os valores vão indicar quantas vezes cada palavra aparece em cada feedback. No final disso, essa matriz é armazenada na variável **_X_**.
 
 ```
 X = vectorizer.fit_transform(feedbacks)
+```
+
+Logo depois eu utilizei um método chamado **_train_test_split()_**, que é responsável por fazer a divisão dos dados em dois grupos: **treinamento** e **teste**.
+
+Essa função recebe os seguintes parâmetros:
+
+- **_X_** : São os vetores numéricos gerados pelo **_fit_transform_**
+- **_labels_** : São os rótulos ligados a cada um dos feedbacks.
+- **_test_size=0.2_** : Delimitador que indica que 20% dos dados serão utilizados para teste, o restante será usado para treino.
+- **_random_state_** : Garante que a divisão dos dados entre treino e teste seja sempre a mesma a cada execução do código.   
+
+    _NOTA*: O valor "42" do **random_state** é arbitrário. O **random_state** não melhora diretamente a acurácia, mas durante meus testes, aparentou ser um bom valor, o que acabou otimizando a performance do modelo._
+
+Essa linha retorna quatro variáveis:
+
+- **_X_train_** : Os vetores de feedback que serão usados para treinar o modelo.
+- **X_test** : Os vetores de feedback que serão usados para testar o modelo.
+- **_X_train_** : Os rótulos correspondentes aos feedbacks de treinamento
+- **_X_train_** : Os rótulos correspondentes aos feedbacks de teste.
+```
+X_train, X_test, y_train, y_test = train_test_split(X, labels, test_size=0.2, random_state=42)
 ```
