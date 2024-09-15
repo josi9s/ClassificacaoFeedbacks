@@ -76,11 +76,15 @@ X = vectorizer.fit_transform(feedbacks)
 
 Logo depois eu utilizei um método chamado **_train_test_split()_**, que é responsável por fazer a divisão dos dados em dois grupos: **treinamento** e **teste**.
 
+```
+X_train, X_test, y_train, y_test = train_test_split(X, labels, test_size=0.2, random_state=42)
+```
+
 Essa função recebe os seguintes parâmetros:
 
 - **_X_** : São os vetores numéricos gerados pelo **_fit_transform_**
 - **_labels_** : São os rótulos ligados a cada um dos feedbacks.
-- **_test_size=0.2_** : Delimitador que indica que 20% dos dados serão utilizados para teste, o restante será usado para treino.
+- **_test_size_** : Delimitador que indica a porcentagem dos dados que serão utilizados para teste, o restante será usado para treino.
 - **_random_state_** : Garante que a divisão dos dados entre treino e teste seja sempre a mesma a cada execução do código.   
 
     _NOTA*: O valor "42" do **random_state** é arbitrário. O **random_state** não melhora diretamente a acurácia, mas durante meus testes, aparentou ser um bom valor, o que acabou otimizando a performance do modelo._
@@ -88,9 +92,62 @@ Essa função recebe os seguintes parâmetros:
 Essa linha retorna quatro variáveis:
 
 - **_X_train_** : Os vetores de feedback que serão usados para treinar o modelo.
-- **X_test** : Os vetores de feedback que serão usados para testar o modelo.
+- **_X_test_** : Os vetores de feedback que serão usados para testar o modelo.
 - **_y_train_** : Os rótulos correspondentes aos feedbacks de treinamento
 - **_y_train_** : Os rótulos correspondentes aos feedbacks de teste.
+
+
+Em seguida, criei uma instância chamada **_model_** do Modelo Naive Bayes Multinomial, que é apropriada para lidar com tipos de dados textuais.
 ```
-X_train, X_test, y_train, y_test = train_test_split(X, labels, test_size=0.2, random_state=42)
+model = MultinomialNB()
+```
+
+Depois usei o método **_fit()_** para treinar o modelo. Essa função recebe como parâmetro os vetores e rótulos de treino extraídos da função **_train_test_split()_**
+```
+model.fit(X_train, y_train)
+```
+
+Aqui usei a função **_predict()_** no **_model_**, que é responsável por fazer o modelo tentar prever o rótulo dos dados fornecidos. Ela recebe como parâmetro a variável **_X_test_**. A previsão resultante será armazenada na variável **_y_pred_**.
+
+```
+y_pred = model.predict(X_test)
+```
+
+Nessa parte eu utilizei o método **_accuracy_score()_** para medir a acurácia do modelo. A função compara os rótulos reais dos dados de teste com os rótulos previstos pelo modelo (y_pred). A acurácia indica a porcentagem de previsões corretas feitas pelo modelo.
+
+```
+precisao = accuracy_score(y_test, y_pred)
+```
+Em seguida, o valor da acurácia é multiplicado por 100 para ser exibido em formato percentual, e é impresso no console com duas casas decimais.
+```
+print(f"Acurácia do modelo: {precisao * 100:.2f}%")
+```
+
+Após isso, criei uma variável **_rodando_** que vai receber o valor *True* que será recebida dentro de um loop *while*. Ela serve como parâmetro para controlar o loop *while*, permitindo que o programa continue pedindo novos feedbacks até que ele seja explicitamente interrompido.
+
+```
+rodando = True
+```
+
+O loop while vai permanecer ativo enquanto **_rodando_** for *True*. Dentro do loop, o programa solicita ao usuário que insira um novo feedback usando a função **_input()_** e guarda a resposta em uma varíavel chamada **_novoFeedback_**.
+```
+while(rodando):
+    novoFeedback = input("Insira um novo feedback: ")
+```
+
+O vectorizer já foi treinado anteriormente com os feedbacks de treino, então aqui ele é utilizado para transformar o **_novoFeedback_** em uma matriz de contagem de palavras, assim como foi feito com os feedbacks de treino. Essa função será armazenada numa varíavel chamada **_X_novos_**.
+
+```
+    X_novos = vectorizer.transform([novoFeedback])
+```
+O modelo usa a função **_predict()_** para fazer a previsão da categoria do novo feedback, usando como parâmetro a variável **_X_novos_**. Essa função será armazenada numa varíavel chamada **_predicao_**.
+  
+```
+    predicao = model.predict(X_novos)
+```
+
+Por fim, o resultado de **_predicao_** é exibido no terminal. O valor *predicao[0]* contém o rótulo previsto pelo modelo.
+
+```
+    print(predicao[0])
 ```
