@@ -89,8 +89,8 @@ Essa linha retorna quatro variáveis:
 
 - **_X_train_** : Os vetores de feedback que serão usados para treinar o modelo.
 - **X_test** : Os vetores de feedback que serão usados para testar o modelo.
-- **_X_train_** : Os rótulos correspondentes aos feedbacks de treinamento
-- **_X_train_** : Os rótulos correspondentes aos feedbacks de teste.
+- **_y_train_** : Os rótulos correspondentes aos feedbacks de treinamento
+- **_y_train_** : Os rótulos correspondentes aos feedbacks de teste.
 ```
 X_train, X_test, y_train, y_test = train_test_split(X, labels, test_size=0.2, random_state=42)
 ```
